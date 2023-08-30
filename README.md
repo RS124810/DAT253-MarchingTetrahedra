@@ -6,7 +6,7 @@ Programet gjenskaper en 3D figur med å lese av et set med CT-Scan bilder
 
 ![image](https://github.com/RS124810/DAT253-MarchingTetrahedra/assets/69851083/29ca6b1f-4809-405d-a9cc-1f8d0f44ecec)
 
-Målet er å dele opp problemet i midre deler, da en kube hvor hjørnene er piksler i 3D rommet og bruke algoritmen til å bestemme hvilke tetrahedra som skal tegnes etter en fast iso verdi
+Målet er å dele opp problemet i midre deler, da en kube hvor hjørnene er punkt (piksler i bildene med en fargeverdi) i 3D rommet og bruke algoritmen til å bestemme hvilke tetrahedra som skal tegnes etter en gitt iso verdi
 
 ![image](https://github.com/RS124810/DAT253-MarchingTetrahedra/assets/69851083/335f083b-a2f7-4bee-9896-c476efedc1e7)
 
